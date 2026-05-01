@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /landscaping-quote/
+
+Sitemap: https://landscaping-quotes.ca/sitemap-index.xml
